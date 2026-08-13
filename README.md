@@ -1,5 +1,4 @@
 # harry-john
-# Pasargad Panel
 
 Simple Next.js admin panel for interacting with Pasargad Node.
 
